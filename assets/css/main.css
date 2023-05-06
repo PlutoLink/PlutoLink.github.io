@@ -4620,7 +4620,7 @@ input, select, textarea {
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
+			
 			width: 7rem;
 		}
 
@@ -4685,5 +4685,9 @@ input, select, textarea {
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
 		}
+
+	}
+	.linkunten{
+		text-decoration: underline;
 
 	}
